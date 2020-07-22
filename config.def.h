@@ -8,6 +8,7 @@
 static char *font = "Hack:pixelsize=12:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
+	"Source Code Pro Regular:pixelsize=12:antialias=true:autohint=true",
 /*	"Inconsolata for Powerline:pixelsize=12:antialias=true:autohint=true", */
 /*	"Hack Nerd Font Mono:pixelsize=11:antialias=true:autohint=true", */
 };
